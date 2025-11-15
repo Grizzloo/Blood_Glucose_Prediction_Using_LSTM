@@ -20,21 +20,6 @@ The pipeline includes:
 - Deep learning training and evaluation
 - Visualization of clinical and predictive results
 
----
-
-## 📁 Repository Structure
-
-├── boxplot.py                   # Boxplots of clinical variables vs hypoglycemia
-├── boxplot1.py                  # Age, BMI, Gender distributions
-├── Estrazione.py                # Extraction of dietary intake from patient files
-├── Ricerca.py                   # Nutritional matching and carbohydrate extraction
-├── Normalizzazione.ipynb        # Data normalization and preprocessing
-├── LSTM.ipynb                   # LSTM model training and evaluation
-├── Shanghai_Summary.xlsx        # Demographic and clinical summary dataset
-├── dieta.xlsx                   # Nutritional reference table
-├── dietacinesi.xlsx             # Extracted dietary intake file
-└── ProgettoFVAB.pdf            # Final research paper
-
 ## 📊 Datasets
 
 ### **Shanghai T1DM Dataset**
